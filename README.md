@@ -77,9 +77,9 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/alejandro-asencio-montes-96973a282/" target="blank"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="aasenciomontes@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/alex.asencio.145/" target="blank"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alejandro-asencio-montes-96973a282/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="aasenciomontes@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/alex.asencio.145/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <br><br>
