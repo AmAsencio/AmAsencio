@@ -42,7 +42,7 @@ Alejandro</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 
 - **Cloud & Communication**:
 
-    ![AWS](https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=AWS&logoColor=white&labelColor=222222&color=222222)
+    ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon+Web+Services&logoColor=white&labelColor=222222&color=222222)
     ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </p>
