@@ -1,12 +1,14 @@
------
-<br>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Alejandro</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<br><br>
+<h3 align="center">
+  Hi, I'm Alejandro Asencio
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Alejandro+Asencio+Montes,;Self-taught+Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+things.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Alejandro+Asencio+Montes,;Web+and+mobile+app+developer,;Self-taught+Front-End+Developer,;Feel%20free%20to%20look%20around%20%F0%9F%91%80;"></a>
 </p>
 
 <br><br>
