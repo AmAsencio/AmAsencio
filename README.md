@@ -17,7 +17,7 @@ Alejandro</a> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 <br><br>
 
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer.
+- :computer: I am a `competitive programmer`.
 - :student: I’m currently learning `Web Application Development`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
