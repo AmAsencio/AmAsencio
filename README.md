@@ -68,6 +68,7 @@
 
     ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=Amazon+Web+Services&logoColor=white&labelColor=222222&color=222222)
     ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 </p>
 
